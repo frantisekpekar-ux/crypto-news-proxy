@@ -1,7 +1,5 @@
 {
   "name": "crypto-news-proxy",
   "version": "1.0.0",
-  "type": "module",
-  "output": "server",
   "dependencies": {}
 }
